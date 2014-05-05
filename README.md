@@ -9,3 +9,5 @@ Comics are in `comics` subdir and are in the format `number.gif`.
 `ui.py` loads the header and footer and takes care of the back/next buttons.
 
 Tested with Python 2.7 on Apache on Linux.
+
+btw you can see a demo of this [here](http://supermega.nfshost.com/)
